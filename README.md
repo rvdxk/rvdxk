@@ -11,7 +11,7 @@ Since April 2023, I have been learning programming in Java. I am an ambitious an
 
 Feel free to explore my GitHub repository and reach out to me regarding any job opportunities that match my profile. 
 
-- 🔭 I’m currently working at **new project**
+- 🔭 I’m currently working on a **new project**
 
 - 👨‍💻 All of my projects are available at [github/rvdxk](github/rvdxk)
 
