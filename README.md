@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Radek and I'm a I am a beginner Java developer, from Sopot in Poland.</p>
+<p align="left">My name is Radek and I'm a beginner Java developer, from Sopot in Poland.</p>
 
 ###
 
