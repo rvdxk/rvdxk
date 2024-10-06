@@ -13,7 +13,7 @@ Feel free to explore my GitHub repository and reach out to me regarding any job 
 
 - 🔭 I’m currently working on a **new project**
 
-- 👨‍💻 All of my projects are available at [github/rvdxk](https://github.com/rvdxk)
+- 👨‍💻 All of my projects are available at [**rvdxk repository**](https://github.com/rvdxk?tab=repositories)
 
 - 📫 How to reach me **rvdxk1@gmail.com**
 
